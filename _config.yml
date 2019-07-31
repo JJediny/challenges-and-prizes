@@ -51,6 +51,8 @@ primary_navigation:
         url: /toolkit/resources/
       - name: FAQ
         url: /toolkit/faq/
+  - name: Archived Challenges
+    url: /archive/
   - name: Contact
     url: /contact/
 
