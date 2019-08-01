@@ -41,6 +41,8 @@ primary_navigation:
     url: /
   - name: About
     url: /about/
+  - name: Contact
+    url: /contact/
   - name: Agency Toolkit
     children:
       - name: Overview
@@ -53,8 +55,7 @@ primary_navigation:
         url: /toolkit/faq/
   - name: Archived Challenges
     url: /archive/
-  - name: Contact
-    url: /contact/
+ 
 
 secondary_navigation:
   - name: Secondary link
